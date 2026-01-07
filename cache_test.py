@@ -4,6 +4,7 @@ import sys
 pygame.init()
 
 # testing
+# testing2
 
 # ----------------------------------------
 # 基本設定
