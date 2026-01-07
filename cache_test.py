@@ -5,6 +5,7 @@ pygame.init()
 
 # testing
 # testing2
+# testing3
 
 # ----------------------------------------
 # 基本設定
